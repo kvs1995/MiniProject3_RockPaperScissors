@@ -1,24 +1,4 @@
 
-// var message = "Hello there"
-
-// alert(message)
-
-// var userInput = prompt("Who are you?")
-
-
-// // console.log(userInput)
-
-// alert(userInput)
-
-// //true or false
-// var response = confirm("The sky is blue")
-
-// console.log(response)
-
-// var playAgain = confirm("Would")
-
-
-
 
 
 /*
